@@ -1,4 +1,4 @@
-### Hi there, I'm [Anupam](https://abhi1520.com) 👋
+### Hi there, I'm [Anupam](https://Anupam9142.com) 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Abhijeet1520.Abhijeet1520) [![Github](https://img.shields.io/github/followers/Abhijeet1520?label=Followers&logo=Github)](https://github.com/Abhijeet1520)
 
 As a passionate and innovative software developer, I thrive on new challenges and love to explore diverse technologies. Check out my work at [Freelancer.com](https://freelancer.com/u/Anupam9142).
