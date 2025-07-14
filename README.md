@@ -7,7 +7,7 @@ As a passionate and innovative software developer, I thrive on new challenges an
 
 <table>
   <tr>
-    <td align="center"><a href="mailto:Anupam.k9142.com"><img src="https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red" alt="Mail"></td>
+    <td align="center"><a href="mailto:ConnectAnupamm.com"><img src="https://img.shields.io/badge/-Mail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red" alt="Mail"></td>
     <td align="center"><a href="https://t.me/Anupam kumar"><img src="https://img.shields.io/badge/-Telegram-blue?labelColor=ffffff&style=flat&logo=Telegram&logoColor=blue" alt="Telegram"></td>
   </tr>
 </table>
