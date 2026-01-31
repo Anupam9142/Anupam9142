@@ -1,39 +1,49 @@
-<p align="center">
-  <!-- Typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Anupam.;Software+Developer.;Automation+%26+Full-Stack.;I+build+things+that+work." />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Animated divider -->
-  <svg width="520" height="20" viewBox="0 0 520 20" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="glow">
-        <stop offset="0%" stop-color="#2b0000">
-          <animate attributeName="offset" values="-1;1" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="50%" stop-color="#ff3b3b"/>
-        <stop offset="100%" stop-color="#2b0000"/>
-      </linearGradient>
-    </defs>
-    <line x1="10" y1="10" x2="510" y2="10"
-          stroke="url(#glow)"
-          stroke-width="1.4"
-          stroke-linecap="round"/>
-  </svg>
-</p>
+<!-- FRAME START -->
+<table width="520" style="border-radius:12px; border:1px solid #1a1a1a; background:#0d0d0d;">
+<tr>
+<td align="center" style="padding:18px">
 
-<p align="center">
-  <!-- Stats -->
-  <img height="150"
-    src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Typing Header -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=FF3B3B&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Anupam.;Software+Developer.;Full-Stack+%26+Automation.;Building+things+that+last."
+/>
 
-<p align="center">
-  <!-- Tech accent badges -->
-  <img src="https://img.shields.io/badge/Python-181818?style=flat&logo=python&logoColor=ff3b3b"/>
-  <img src="https://img.shields.io/badge/React-181818?style=flat&logo=react&logoColor=ff3b3b"/>
-  <img src="https://img.shields.io/badge/Automation-181818?style=flat&logo=selenium&logoColor=ff3b3b"/>
-</p>
+<!-- Animated Divider -->
+<br><br>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff3b3b&section=header&reversal=true&animation=fadeIn"
+  width="420"
+/>
+
+<!-- Short Bio -->
+<br>
+<span style="color:#b3b3b3; font-size:13px; font-family:JetBrains Mono;">
+I build scalable web apps, automation systems,<br>
+and data-driven solutions with clean architecture.
+</span>
+
+<!-- Stats -->
+<br><br>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&theme=tokyonight&hide_border=true"
+  height="135"
+/>
+
+<!-- Tech Badges -->
+<br><br>
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat&logo=python&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/React-0d0d0d?style=flat&logo=react&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/Automation-0d0d0d?style=flat&logo=selenium&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/Cloud-0d0d0d?style=flat&logo=amazonaws&logoColor=ff3b3b"/>
+
+</td>
+</tr>
+</table>
+<!-- FRAME END -->
+
+</div>
 
 
 
