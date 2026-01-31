@@ -1,9 +1,11 @@
+<!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Anupam&fontColor=cccccc&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=Anupam&fontSize=64&fontColor=cccccc&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <i>silent systems · dark interfaces · clean execution</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=888888&center=true&vCenter=true&width=600&lines=Software+Developer;Dark+UI+Enthusiast;Automation+%26+Cloud+Builder;Clean+Code+%7C+Silent+Systems" />
 </p>
 
 <p align="center">
@@ -15,20 +17,21 @@
 
 ## 🕯 About Me
 
-I’m a **software developer** who prefers systems that speak softly and work relentlessly.  
-I focus on **structure**, **scalability**, and **long-term reliability**.
+I design and build **quietly powerful software**.  
+Minimal interfaces. Strong foundations. Systems that last.
 
-No noise. No gimmicks. Just well-built software.
+Focused on **web, automation, data, and cloud infrastructure** —  
+shipping clean solutions without unnecessary noise.
 
 ---
 
-## ⚰ What I Do
+## ⚰ What I Build
 
-▸ Full-stack web development  
+▸ Full-stack web applications  
 ▸ Automation & scraping systems  
 ▸ Backend APIs & architecture  
 ▸ Data dashboards & workflows  
-▸ Cloud deployment & DevOps  
+▸ Cloud-native deployments  
 
 ---
 
@@ -48,7 +51,7 @@ No noise. No gimmicks. Just well-built software.
 ![Spring](https://img.shields.io/badge/Spring-0d0d0d?style=flat&logo=spring)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat&logo=docker)
 
-### ◼ Data · Automation
+### ◼ Data & Automation
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat&logo=mysql)
 ![Selenium](https://img.shields.io/badge/Selenium-0d0d0d?style=flat&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat&logo=postman)
@@ -57,20 +60,11 @@ Power BI · Power Automate · Excel · NumPy · Web Scraping
 
 ---
 
-## ☁ Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-0d0d0d?style=flat&logo=googlecloud)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=flat&logo=kubernetes)
-![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=flat&logo=netlify)
-
----
-
-## ☾ GitHub Presence
+## ☾ Live GitHub Signals (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam9142&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anupam9142&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -92,11 +86,14 @@ Power BI · Power Automate · Excel · NumPy · Web Scraping
 ---
 
 <p align="center">
-  <sub>built quietly · scaled carefully · shipped with intent</sub>
+  <sub>low noise · high intent · dark precision</sub>
 </p>
 
+<!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer" />
 </p>
+
+
 
 
