@@ -1,48 +1,48 @@
 <div align="center">
 
-<!-- FRAME START -->
-<table width="520" style="border-radius:12px; border:1px solid #1a1a1a; background:#0d0d0d;">
-<tr>
-<td align="center" style="padding:18px">
+<!-- single frame -->
+<div style="
+  width:520px;
+  padding:20px;
+  background:#0e0e11;
+  border-radius:14px;
+  border:1px solid #1f1f25;
+">
 
-<!-- Typing Header -->
+<!-- animated name -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=FF3B3B&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Anupam.;Software+Developer.;Full-Stack+%26+Automation.;Building+things+that+last."
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=ff3b3b&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Anupam.;Software+Developer.;Full-Stack+%7C+Automation."
 />
 
-<!-- Animated Divider -->
-<br><br>
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff3b3b&section=header&reversal=true&animation=fadeIn"
-  width="420"
-/>
-
-<!-- Short Bio -->
+<!-- subtle divider -->
 <br>
-<span style="color:#b3b3b3; font-size:13px; font-family:JetBrains Mono;">
-I build scalable web apps, automation systems,<br>
-and data-driven solutions with clean architecture.
-</span>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="460"/>
 
-<!-- Stats -->
-<br><br>
+<!-- bio -->
+<p style="
+  margin:14px 0;
+  color:#b7b7c0;
+  font-size:14px;
+  font-family:JetBrains Mono;
+">
+I build clean, scalable web apps and automation systems.<br>
+Focused on real-world problems, performance, and maintainable code.
+</p>
+
+<!-- stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&theme=tokyonight&hide_border=true"
-  height="135"
+  src="https://github-readme-stats.vercel.app/api?username=Anupam9142&show_icons=true&hide_border=true&bg_color=0e0e11&title_color=ff3b3b&icon_color=ff3b3b&text_color=b7b7c0"
+  height="140"
 />
 
-<!-- Tech Badges -->
+<!-- tech -->
 <br><br>
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat&logo=python&logoColor=ff3b3b"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=flat&logo=react&logoColor=ff3b3b"/>
-<img src="https://img.shields.io/badge/Automation-0d0d0d?style=flat&logo=selenium&logoColor=ff3b3b"/>
-<img src="https://img.shields.io/badge/Cloud-0d0d0d?style=flat&logo=amazonaws&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/Python-0e0e11?style=flat&logo=python&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/JavaScript-0e0e11?style=flat&logo=javascript&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/React-0e0e11?style=flat&logo=react&logoColor=ff3b3b"/>
+<img src="https://img.shields.io/badge/Automation-0e0e11?style=flat&logo=selenium&logoColor=ff3b3b"/>
 
-</td>
-</tr>
-</table>
-<!-- FRAME END -->
-
+</div>
 </div>
 
 
