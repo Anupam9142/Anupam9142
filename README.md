@@ -26,6 +26,7 @@ From **web & app development** to **automation and data analysis**, I enjoy turn
 
 <p align="center">
   <a href="mailto:connectAnupamm@gmail.com">
+    <p align="center">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/Anupam_kumar">
