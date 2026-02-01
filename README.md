@@ -75,14 +75,14 @@ From **web & app development** to **automation and data analysis**, I enjoy turn
 
 ## 🏆 GitHub Stats
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam9142&hide=php&theme=tokyonight" height="165"> 
+<p align="center"></p>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam9142&hide=php&theme=tokyonight" height="165"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam9142&hide=php&theme=tokyonight" width="165" />
 </a>
 ---
 
-<p align="center">
   <i>“Build. Break. Learn. Repeat.”</i> 🚀
-</p>
+
 
 
 
