@@ -1,158 +1,137 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=DM+Sans:wght@400;500&display=swap');
+<h1 align="center">Hey, I'm Anupam 👋</h1>
+<h3 align="center">Software Developer • Tech Explorer • Problem Solver</h3>
 
-  *{
-    box-sizing:border-box;
-    margin:0;
-    padding:0;
-  }
+<p align="center">
+  <a href="https://Anupam9142.com">🌐 Portfolio</a>
+</p>
 
-  .rm{
-    background:#0d1117;
-    border-radius:8px;
-    padding:2rem 1.75rem;
-    font-family:'DM Sans',sans-serif;
-    color:#e6edf3;
-  }
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anupam9142.Anupam9142" />
+  <a href="https://github.com/Anupam9142">
+    <img src="https://img.shields.io/github/followers/Anupam9142?label=Followers&logo=github" />
+  </a>
+</p>
 
-  .center{text-align:center;}
+---
 
-  .divider{
-    border:none;
-    border-top:1px solid #21262d;
-    margin:16px 0;
-  }
+## ✨ About Me
 
-  .sec-hd{
-    font-family:'Inter',sans-serif;
-    font-size:11px;
-    font-weight:600;
-    color:#8b949e;
-    letter-spacing:1.5px;
-    text-transform:uppercase;
-    margin:16px 0 10px;
-    display:flex;
-    align-items:center;
-    gap:8px;
-  }
+I'm a passionate and curious **software developer** who loves building clean, scalable, and impactful solutions.  
+From **web & app development** to **AI/ML, automation, and data analysis**, I enjoy turning ideas into working products and constantly exploring new tech.
 
-  .sec-hd::after{
-    content:'';
-    flex:1;
-    height:1px;
-    background:#21262d;
-  }
+---
 
-  .sub-hd{
-    font-size:10px;
-    color:#58a6ff;
-    letter-spacing:1px;
-    text-transform:uppercase;
-    margin:10px 0 6px;
-    font-family:'Inter',sans-serif;
-    font-weight:500;
-  }
+## 📬 Connect With Me
 
-  .badges{
-    display:flex;
-    flex-wrap:wrap;
-    gap:5px;
-    margin-bottom:4px;
-  }
+<p align="center">
+  <a href="mailto:connectAnupamm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Anupam_kumar">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
-  .b{
-    display:inline-flex;
-    align-items:center;
-    gap:6px;
-    font-size:11px;
-    font-family:'Inter',sans-serif;
-    font-weight:500;
-    padding:4px 10px;
-    border-radius:5px;
-    border:1px solid #30363d;
-    background:#161b22;
-    color:#c9d1d9;
-  }
+---
 
-  .b img{
-    width:14px;
-    height:14px;
-    object-fit:contain;
-    display:block;
-    flex-shrink:0;
-  }
+## 🧰 Tech Stack
 
-  .about-text{
-    font-size:13px;
-    color:#8b949e;
-    line-height:1.9;
-    border-left:2px solid #58a6ff;
-    padding-left:14px;
-  }
+### 💻 Programming Languages
 
-  .about-text strong{
-    color:#e6edf3;
-    font-weight:500;
-  }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,go" />
+</p>
 
-  .pill{
-    font-size:10px;
-    padding:2px 9px;
-    border-radius:20px;
-    border:1px solid #30363d;
-    color:#8b949e;
-    background:#161b22;
-    display:inline-flex;
-    align-items:center;
-    gap:4px;
-  }
-</style>
+---
 
-<div class="rm">
+### 🌐 Web Development
 
-  <div class="center" style="margin-bottom:1.5rem;">
-    <div style="display:flex;align-items:center;justify-content:center;gap:14px;margin-bottom:10px;">
-      <img src="https://avatars.githubusercontent.com/u/105556225?v=4"
-           style="width:56px;height:56px;border-radius:50%;border:2px solid #30363d;"
-           alt="avatar">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,angular,tailwind,materialui" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express,php,graphql,docker" />
+</p>
 
-      <div style="text-align:left;">
-        <div style="font-family:'Inter',sans-serif;font-size:20px;font-weight:600;color:#e6edf3;">
-          Hey, I'm Anupam 👋
-        </div>
+---
 
-        <div style="font-size:13px;color:#8b949e;margin-top:2px;">
-          Software Developer • Tech Explorer • Problem Solver
-        </div>
-      </div>
-    </div>
+### 🤖 AI & Machine Learning
 
-    <div style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-top:6px;">
-      <span class="pill">🌍 anupam9142.com</span>
-      <span class="pill">👁️ visitor badge</span>
-      <span class="pill">🐙 3 followers</span>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,matlab" />
+</p>
 
-  <div class="divider"></div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+</p>
 
-  <div class="sec-hd">About me</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+</p>
 
-  <div class="about-text">
-    I'm a passionate and curious <strong>software developer</strong>
-    who loves building clean, scalable, and impactful solutions.
-  </div>
+- 🧠 **Deep Learning** — CNNs, RNNs, Transformers, LLMs  
+- 🗣️ **NLP** — Hugging Face, LangChain, spaCy, NLTK  
+- 👁️ **Computer Vision** — OpenCV, YOLO, PIL/Pillow  
+- 📊 **ML Frameworks** — Scikit-learn, XGBoost, LightGBM  
+- ⚡ **LLM Integration** — OpenAI API, Anthropic API, LlamaIndex, Ollama  
+- 🧬 **Data Science** — Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
+- 🚀 **MLOps** — MLflow, Weights & Biases, HuggingFace Hub
 
-  <div class="divider"></div>
+---
 
-  <div class="sec-hd">Languages</div>
+### 📊 Data & Automation
 
-  <div class="badges">
-    <span class="b">Python</span>
-    <span class="b">Java</span>
-    <span class="b">C++</span>
-    <span class="b">JavaScript</span>
-    <span class="b">TypeScript</span>
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,selenium,postman" />
+</p>
 
-</div>
+- Power BI, Power Automate  
+- Excel, SharePoint, Dataverse  
+- Apache Kafka, Apache Spark  
+- Web Scraping — Selenium, BeautifulSoup, Puppeteer, Scrapy
+
+---
+
+### 📱 App Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,unity" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,netlify,vercel,nginx" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-22-blue?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-3-green?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Stars%20Given-21-yellow?style=flat&logo=github"/>
+</p>
+
+### 🏅 Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" title="YOLO — Merged a PR without a review"/>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark — Opened pull requests that got merged"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" title="Quickdraw — Closed an issue or PR within 5 minutes"/>
+</p>
+
+---
+
+<p align="center"><i>"Build. Break. Learn. Repeat."</i> 🚀</p>
