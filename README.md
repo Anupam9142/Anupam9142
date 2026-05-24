@@ -2,8 +2,7 @@
 <h3 align="center">Software Developer • Tech Explorer • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://Anupam9142.com">🌐 Portfolio</a> •
-  <a href="https://freelancer.com/u/Anupam1520">💼 Freelancer</a>
+  <a href="https://Anupam9142.com">🌐 Portfolio</a> 
 </p>
 
 <p align="center">
