@@ -2,10 +2,6 @@
 <h3 align="center">Software Developer • Tech Explorer • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://Anupam9142.com">🌐 Portfolio</a>
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Anupam9142.Anupam9142" />
   <a href="https://github.com/Anupam9142">
     <img src="https://img.shields.io/github/followers/Anupam9142?label=Followers&logo=github" />
