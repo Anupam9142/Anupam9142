@@ -12,8 +12,10 @@
 
 ## ✨ About Me
 
-I'm a passionate and curious **software developer** who loves building clean, scalable, and impactful solutions.  
-From **web & app development** to **AI/ML, automation, and data analysis**, I enjoy turning ideas into working products and constantly exploring new tech.
+Software Developer • Web3 • Full‑Stack • Data & Analytics
+
+As a passionate and innovative software developer, I thrive on new challenges and love exploring diverse technologies. I’ve delivered 30+ projects with a 100% completion rate and on‑time results across web, data, blockchain, mobile, and game development.
+
 
 ---
 
